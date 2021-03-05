@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b343b213-ac0a-4c1c-8232-e51e2418465c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/pure/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pure/languages/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure/languages/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pure/layout/_partial/post/copyright.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pure/layout/_partial/post/copyright.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pure/source/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pure/source/images/xingqiu-qrcode.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/pure" />
+  </component>
+  <component name="ProjectId" id="1htUaqgKyc3Pn99i1BHOmbPcaep" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b343b213-ac0a-4c1c-8232-e51e2418465c" name="Default Changelist" comment="" />
+      <created>1600829948854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600829948854</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1601264881498">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="296" y="212" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1601264881498" />
+    <state x="303" y="24" width="673" height="708" key="find.popup" timestamp="1600841975198">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="303" y="24" width="673" height="708" key="find.popup/0.23.1280.709@0.23.1280.709" timestamp="1600841975198" />
+  </component>
+</project>
